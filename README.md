@@ -1,12 +1,22 @@
-# vue-pwa-with-nuxt
+# hello-world-pwa
 
 > A simple hello world, built with Vue Progressive Web App using Nuxt Js.
 
+## Live Demo
+https://happy-kepler-fcacc4.netlify.com/
+
 ## Build Setup
+Make sure you have following software installed in your system
+* npm v3.5.2
+* git
 
 ```bash
+# clone repository
+$ git clone https://github.com/Rikadewi/hello-world-pwa
+$ cd simple-api
+
 # install dependencies
-$ npm install
+npm install
 
 # serve with hot reload at localhost:3000
 $ npm run dev
@@ -19,4 +29,6 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Access
+* host: `127.0.0.1`
+* port: `3000`
