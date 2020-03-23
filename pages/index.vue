@@ -10,7 +10,7 @@
       </h2>
       <div class="links">
         <a
-          href="https://github.com/Rikadewi/qr-code-scanner-pwa"
+          href="https://github.com/Rikadewi/hello-world-pwa"
           target="_blank"
           class="button--grey"
         >
