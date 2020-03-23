@@ -1,7 +1,7 @@
 {
-  "name": "qr-code-pwa",
+  "name": "hello-world-pwa",
   "version": "1.0.0",
-  "description": "QR code decoder with pwa concept ",
+  "description": "simple hello world with pwa concept ",
   "author": "rika",
   "private": true,
   "scripts": {
