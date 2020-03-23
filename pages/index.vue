@@ -3,21 +3,14 @@
     <div>
       <logo />
       <h1 class="title">
-        qr-code-pwa
+        Hello World
       </h1>
       <h2 class="subtitle">
-        QR code decoder with pwa concept 
+        A simple hello world, built with Vue Progressive Web App using Nuxt Js.
       </h2>
       <div class="links">
         <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/Rikadewi/qr-code-scanner-pwa"
           target="_blank"
           class="button--grey"
         >
@@ -29,13 +22,6 @@
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
-
-export default {
-  components: {
-    Logo
-  }
-}
 </script>
 
 <style>
@@ -53,14 +39,14 @@ export default {
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 2em;
   color: #35495e;
   letter-spacing: 1px;
 }
 
 .subtitle {
   font-weight: 300;
-  font-size: 42px;
+  font-size: 1em;
   color: #526488;
   word-spacing: 5px;
   padding-bottom: 15px;

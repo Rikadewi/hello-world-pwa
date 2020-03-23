@@ -1,6 +1,6 @@
-# qr-code-pwa
+# vue-pwa-with-nuxt
 
-> QR code decoder with pwa concept 
+> A simple hello world, built with Vue Progressive Web App using Nuxt Js.
 
 ## Build Setup
 

@@ -69,8 +69,8 @@ export default {
   ** Overwrite's generated manifest values
   */
   manifest: {
-    name: 'Nuxt.js PWA survival store',
-    short_name: 'Nuxt.js PWA',
+    name: 'Hello World PWA with Nuxt.js',
+    short_name: 'Hello World',
     lang: 'en',
     display: 'standalone',
   },
